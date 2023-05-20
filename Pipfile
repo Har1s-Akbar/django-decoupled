@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 django = "*"
+django-extensions = "*"
+django-environ = "*"
+pipfile = "*"
+django-split-settings = "*"
+python-decouple = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 
