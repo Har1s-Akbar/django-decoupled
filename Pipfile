@@ -11,6 +11,7 @@ pipfile = "*"
 django-split-settings = "*"
 python-decouple = "*"
 psycopg2-binary = "*"
+uvicorn = "*"
 
 [dev-packages]
 
